@@ -1,1 +1,1 @@
-# Project
+Render-ready FIR Intelligence Extractor. See instructions in Render dashboard.
